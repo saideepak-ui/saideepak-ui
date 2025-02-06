@@ -8,11 +8,11 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://lokesh-reddy14.github.io/saideepak-ui/](https://lokesh-reddy14.github.io/LokeshReddy/)
+- 👨‍💻 All of my projects are available at [https://github.com/saideepak-ui](https://github.com/saideepak-ui)
 
 - 💬 Ask me about **Web development,Android development,Artificial intelligence**
 
-- 📫 How to reach me **nalla.lokeshreddy100@gmail.com**
+- 📫 How to reach me **saideepakmunja@gmail.com**
 
 <h3 align="left">Connect with me:-</h3>
 <p align="left">

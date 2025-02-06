@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:-</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lokesh-reddy-nalla-121748249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-reddy-nalla-121748249" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saideepak-munja-528759320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saideepak-munja-528759320" height="30" width="40" /></a>
 <a href="https://instagram.com/lokesh_reddy_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokesh_reddy_14" height="30" width="40" /></a>
 </p>
 

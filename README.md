@@ -1,52 +1,184 @@
-[![MasterHead](https://i.pinimg.com/originals/2d/e8/82/2de882cd4f3992ada3d609e3a183f7a4.jpg)](https://www.linkedin.com/in/sai-deepak-munja-528759320/)
-<h1 align="center">Hi 👋, I'm Sai Deepak</h1>
-<h3 align="center">Data Science Graduate from Geethanjali College of Engineering and Technology</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saideepak-ui&label=Profile%20views&color=0e75b6&style=flat" alt="saideepak-ui" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/saideepak-ui](https://github.com/saideepak-ui)
-
-- 💬 Ask me about **Data Science, Python, Excel, Power BI**
-
-- 📫 How to reach me **saideepakmunja@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sai-deepak-munja-528759320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saideepak-munja-528759320" height="30" width="40" /></a>
-<a href="https://www.instagram.com/saie_deepak/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saie_deepak" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-</a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</a>
-<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/>
-</a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/external-flat-juicy-fish/40/null/external-statistics-business-and-finance-flat-flat-juicy-fish.png" alt="statistics" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="machine learning" width="40" height="40"/>
-</a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saideepak-ui&show_icons=true&locale=en&layout=compact" alt="saideepak-ui" /></p>
-
-<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saideepak-ui&" alt="saideepak-ui" /></p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Munja Sai Deepak | Data Professional Portfolio</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <style>
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      min-height: 100vh;
+      background: linear-gradient(120deg, #a18cd1 0%, #fbc2eb 100%);
+      color: #232946;
+    }
+    .container {
+      max-width: 700px;
+      margin: 40px auto;
+      background: #fffdfcdd;
+      border-radius: 15px;
+      box-shadow: 0 6px 32px rgba(0,0,0,0.08);
+      padding: 36px 26px;
+      overflow: hidden;
+    }
+    .profile-pic-wrap {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 18px;
+    }
+    .profile-pic {
+      width: 128px; height: 128px;
+      border-radius: 50%;
+      box-shadow: 0 4px 24px #fbc2eb88, 0 1px 2px #a18cd177;
+      object-fit: cover;
+      border: 5px solid #fff;
+      background: #eee;
+    }
+    h1, h2 {
+      text-align: center;
+      margin-top: 0;
+    }
+    h1 {
+      font-size: 2.3em;
+      color: #7657d2;
+      letter-spacing: 1px;
+    }
+    h2 {
+      font-size: 1.25em;
+      color: #eb5424;
+      letter-spacing: 0.5px;
+    }
+    .links {
+      text-align: center;
+      margin-bottom: 18px;
+    }
+    .links a {
+      display: inline-block;
+      margin: 0 14px;
+      padding: 9px 18px;
+      border-radius: 40px;
+      background: linear-gradient(90deg, #f7b801, #eb5424);
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+      transition: background .2s, color .2s, transform .2s, box-shadow .2s;
+      box-shadow: 0 2px 16px #fbc2eb33;
+      border: none;
+    }
+    .links a:hover {
+      background: linear-gradient(90deg, #7657d2, #3d5af1);
+      color: #fff;
+      transform: scale(1.08);
+      box-shadow: 0 4px 20px #7657d278;
+    }
+    .section {
+      margin-top: 32px;
+    }
+    .section-title {
+      color: #eb5424;
+      margin-bottom: 8px;
+    }
+    ul.skills, ul.projects, ul.certifications, ul.extra {
+      padding: 0 20px;
+      list-style: disc;
+      margin-top: 0.5em;
+    }
+    .edu-table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 8px;
+      font-size: 1em;
+    }
+    .edu-table th, .edu-table td {
+      padding: 8px 10px;
+      text-align: left;
+      border-bottom: 1px solid #dcc1e7;
+    }
+    .edu-table th {
+      background: #f7b80133;
+      color: #232946;
+    }
+    .edu-table tr:hover {
+      background: #fbc2eb55;
+      transition: background .2s;
+    }
+    @media (max-width: 600px) {
+      .container { padding: 16px 3vw; }
+      .profile-pic { width: 100px; height: 100px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="profile-pic-wrap">
+      <img class="profile-pic" src="https://drive.google.com/uc?export=view&id=1hz7AQwc-v5aXa8s6HZ_7g4-i-DhNeUIw" alt="Profile Picture">
+    </div>
+    <h1>Munja Sai Deepak</h1>
+    <div class="links">
+      <a href="mailto:saideepakmunja@gmail.com" target="_blank">Email</a>
+      <a href="https://www.linkedin.com/in/YOUR-USERNAME" target="_blank">LinkedIn</a>
+      <a href="https://github.com/YOUR-USERNAME" target="_blank">GitHub</a>
+    </div>
+    <div class="section">
+      <div class="section-title"><b>About</b></div>
+      <p>Aspiring Data Professional skilled in Python, SQL, AI/ML, and data visualization tools.<br>
+      Enthusiastic about projects that explore bias, real-world trends, and social impact.</p>
+    </div>
+    <div class="section">
+      <div class="section-title"><b>Technical Skills</b></div>
+      <ul class="skills">
+        <li>Pandas, NumPy</li>
+        <li>Power BI</li>
+        <li>SQL</li>
+        <li>AI/ML: TF-IDF, Passive Aggressive Classifier</li>
+      </ul>
+    </div>
+    <div class="section">
+      <div class="section-title"><b>Selected Projects</b></div>
+      <ul class="projects">
+        <li><b>Fake News Detection Model:</b> Built using TF-IDF and Passive Aggressive Classifier</li>
+        <li><b>Gender Bias in Song Lyrics:</b> Analyzed 300+ English songs for sentiment and gender bias</li>
+        <li><b>SQL Industry Analytics:</b> Explored employee and automotive data for trends and insights</li>
+      </ul>
+    </div>
+    <div class="section">
+      <div class="section-title"><b>Certifications</b></div>
+      <ul class="certifications">
+        <li>Power BI using AI - Officemaster</li>
+        <li>AI/ML Concepts Training</li>
+      </ul>
+    </div>
+    <div class="section">
+      <div class="section-title"><b>Education</b></div>
+      <table class="edu-table">
+        <tr>
+          <th>Degree</th><th>Institution</th><th>Year</th>
+        </tr>
+        <tr>
+          <td>B.Tech CSE (Data Science)</td>
+          <td>Geethanjali College (JNTU-H)</td>
+          <td>2025</td>
+        </tr>
+        <tr>
+          <td>TSBIE (MPC)</td>
+          <td>SR Junior College</td>
+          <td>2021</td>
+        </tr>
+        <tr>
+          <td>TS-SSC</td>
+          <td>Orbit e-techno School</td>
+          <td>2019</td>
+        </tr>
+      </table>
+    </div>
+    <div class="section">
+      <div class="section-title"><b>Extras</b></div>
+      <ul class="extra">
+        <li>Cricket enthusiast</li>
+        <li>Public speaking & presentations</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>

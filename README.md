@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-# Hi 👋, I'm Sai Deepak <img src="https://drive.google.com/uc?export=view&id=1hz7AQwc-v5aXa8s6HZ_7g4-i-DhNeUIw" alt="Sai Deepak" width="80" align="right" style="border-radius:50%; border:2px solid white; object-fit: cover; height: 80px;">
+# Hi 👋, I'm Sai Deepak <img src="https://drive.google.com/uc?export=view&id=1hz7AQwc-v5aXa8s6HZ_7g4-i-DhNeUIw" alt="Sai Deepak" width="80" align="right" style="border-radius:50%; border:2px solid white;">
 
 **B.Tech (CSE - Data Science), Geethanjali College of Engineering and Technology, 2025 Graduate**
 

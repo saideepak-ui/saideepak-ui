@@ -1,149 +1,74 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sai Deepak's GitHub Profile</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(to right, #f4f4f9, #e8f0fe);
-      margin: 0;
-      padding: 0;
-      color: #333;
-    }
-    .header {
-      display: flex;
-      align-items: center;
-      padding: 40px;
-      background: linear-gradient(to right, #1e1e2f, #2c3e50);
-      color: white;
-      position: relative;
-    }
-    .profile-img {
-      width: 150px;
-      height: 150px;
-      border-radius: 50%;
-      border: 4px solid white;
-      margin-right: 30px;
-      transition: transform 0.3s ease;
-    }
-    .profile-img:hover {
-      transform: scale(1.1);
-    }
-    .header-content {
-      flex: 1;
-    }
-    .linkedin-link {
-      position: absolute;
-      top: 20px;
-      right: 20px;
-      text-decoration: none;
-      color: #fff;
-      font-weight: bold;
-    }
-    .linkedin-link img {
-      width: 30px;
-      vertical-align: middle;
-      margin-right: 8px;
-    }
-    .container {
-      width: 90%;
-      max-width: 1200px;
-      margin: auto;
-      padding: 20px;
-    }
-    .section {
-      margin-bottom: 60px;
-    }
-    h2 {
-      color: #1e1e2f;
-      border-bottom: 3px solid #0078d4;
-      padding-bottom: 10px;
-    }
-    .cert, .project {
-      background: linear-gradient(to right, #ffffff, #f0f9ff);
-      border-radius: 12px;
-      padding: 25px;
-      margin: 20px 0;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-      display: flex;
-      align-items: center;
-    }
-    .cert:hover, .project:hover {
-      transform: scale(1.02);
-      box-shadow: 0 6px 16px rgba(0,0,0,0.15);
-    }
-    .cert img, .project img {
-      width: 60px;
-      height: 60px;
-      margin-right: 20px;
-    }
-    .cert-content, .project-content {
-      flex: 1;
-    }
-    .cert h3, .project h3 {
-      margin-top: 0;
-      color: #333;
-    }
-    .cert a, .project a {
-      text-decoration: none;
-      color: #0078d4;
-    }
-    .cert a:hover, .project a:hover {
-      text-decoration: underline;
-    }
-    footer {
-      background: #1e1e2f;
-      color: white;
-      text-align: center;
-      padding: 20px;
-      margin-top: 40px;
-    }
-  </style>
-</head>
-<body>
-  <div class="header">
-    <a href="https://www.linkedin.com/in/sai-deepak-munja-528759320/" class="linkedin-link" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">LinkedIn Profile</a>
-    <img src="https://drive.google.com/uc?export=view&id=1hz7AQwc-v5aXa8s6HZ_7g4-i-DhNeUIw" alt="Profile Picture" class="profile-img" />
-    <div class="header-content">
-      <h1>Hi 👋, I'm Sai Deepak</h1>
-      <p><strong>B.Tech (CSE - Data Science), Geethanjali College of Engineering and Technology, 2025 Graduate</strong><br>
-      Passionate about Data Analysis | Python | Machine Learning | Excel | Power BI | Statistics<br>
-      I love exploring data-driven solutions, building interactive dashboards, and uncovering actionable insights.<br>
-      📫 Email: <strong>saideepakmunja@gmail.com</strong></p>
-    </div>
-  </div>
+<!-- Profile Header -->
+<p align="left">
+  <img src="https://drive.google.com/uc?export=view&id=1hz7AQwc-v5aXa8s6HZ_7g4-i-DhNeUIw" alt="Sai Deepak" width="150" style="border-radius:50%; border:2px solid white;">
+</p>
 
-  <div class="container">
-    <div class="section">
-      <h2>Certifications</h2>
-      <!-- Certification Cards (your previous code here) -->
-    </div>
+# Hi 👋, I'm Sai Deepak
 
-    <div class="section">
-      <h2>Internship</h2>
-      <div class="cert">
-        <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="AI Internship">
-        <div class="cert-content">
-          <h3>AI/ML Intern at Cantilever Labs</h3>
-          <p>Designed and developed a Fake News Detection model using TF-IDF vectorization and Passive Aggressive Classifier. Achieved 90%+ accuracy on benchmark datasets.</p>
-          <p><strong>Skills:</strong> Python, Pandas, Machine Learning, Scikit-learn</p>
-          <a href="https://github.com/saideepak-ui/Fake-news-with-python">Project Link</a>
-        </div>
-      </div>
-    </div>
+**B.Tech (CSE - Data Science), Geethanjali College of Engineering and Technology, 2025 Graduate**
 
-    <div class="section">
-      <h2>Projects</h2>
-      <!-- Project Cards (your previous code here) -->
-    </div>
-  </div>
+🔹 Passionate about **Data Analysis | Python | Machine Learning | Excel | Power BI | Statistics**  
+🔹 I love exploring data-driven solutions and creating interactive dashboards.  
+📫 **Email:** saideepakmunja@gmail.com  
+🔗 [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png) LinkedIn Profile](https://www.linkedin.com/in/sai-deepak-munja-528759320/)
 
-  <footer>
-    &copy; 2025 Sai Deepak. All rights reserved.
-  </footer>
-</body>
-</html>
+---
+
+## 📜 Certifications
+
+- **Data Analysis with Python - FreeCodeCamp**  
+  Learned data analysis, manipulation, and visualization using Pandas, Matplotlib.  
+  **Skills:** Python, Pandas, Data Analysis, Jupyter
+
+- **Power BI using AI - Officemaster**  
+  Built AI-integrated dashboards with Power BI.  
+  **Skills:** Power BI, AI Visualization, Dashboard Design
+
+- **Python for Data Science - IBM**  
+  Python basics to data analysis using Jupyter.  
+  **Skills:** Python, Pandas, Data Analysis
+
+- **TATA Data Visualization Simulation - Forage**  
+  Created dashboards and cleaned data using Power BI.  
+  **Skills:** Power BI, Data Visualization
+
+- **Deloitte Data Analytics Simulation - Forage**  
+  Worked on business analytics case scenarios.  
+  **Skills:** SQL, Business Analytics
+
+---
+
+## 💼 Internship
+
+- **AI/ML Intern at Cantilever Labs**  
+  Developed Fake News Detection model using TF-IDF and Passive Aggressive Classifier.  
+  **Skills:** Python, Pandas, Machine Learning, Scikit-learn  
+  🔗 [Project Link](https://github.com/saideepak-ui/Fake-news-with-python)
+
+---
+
+## 🛠️ Projects
+
+- **Gender Bias in Lyrics**  
+  Detected gender bias in 300+ songs using sentiment analysis and NLP.  
+  **Skills:** Python, Pandas, Power BI  
+  🔗 [GitHub Link](https://github.com/saideepak-ui/Gender-Bias-in-Lyrics)
+
+- **SQL-Based Data Analysis**  
+  Analyzed employee and automotive datasets using SQL queries.  
+  **Skills:** SQL  
+  🔗 [GitHub Link](https://github.com/saideepak-ui/SQL_Projects)
+
+- **Three-Level Password System**  
+  Multi-layered security with textual, graphical, and behavioral authentication.  
+  **Skills:** Python, Hashlib  
+  🔗 [GitHub Link](https://github.com/saideepak-ui/Three-Level-Password-System)
+
+- **PC Lock Screen Clone**  
+  Web clone of a lock screen using HTML/CSS/JS.  
+  **Skills:** HTML, CSS, JavaScript  
+  🔗 [Live Demo](https://saideepak-ui.github.io/PC-Lock-screen-clone/)
+
+---
+
+© 2025 Sai Deepak. All rights reserved.

@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<p align="left">
+<p align="right">
   <img src="https://drive.google.com/uc?export=view&id=1hz7AQwc-v5aXa8s6HZ_7g4-i-DhNeUIw" alt="Sai Deepak" width="120" style="border-radius:50%; border:2px solid white;">
 </p>
 
@@ -10,7 +10,7 @@
 🔹 Passionate about **Data Analysis | Python | Machine Learning | Excel | Power BI | Statistics**  
 🔹 I love exploring data-driven solutions and creating interactive dashboards.  
 📫 **Email:** saideepakmunja@gmail.com  
-🔗 <a href="https://www.linkedin.com/in/sai-deepak-munja-528759320/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18"/> LinkedIn Profile</a>
+🔗 <a href="https://www.linkedin.com/in/sai-deepak-munja-528759320/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="14"/> LinkedIn Profile</a>
 
 ---
 

@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saideepak-ui](https://github.com/saideepak-ui)
 
-- 💬 Ask me about **Python,WebDevelopment,MachineLearning**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **saideepakmunja@gmail.com**
 
